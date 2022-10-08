@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\MySql.Data.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Debug\EWeJob.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Debug\EWeJob.csproj.CopyComplete
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

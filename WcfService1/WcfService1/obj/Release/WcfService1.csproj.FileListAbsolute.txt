@@ -1,0 +1,25 @@
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\bin\MySql.Data.dll
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\obj\Release\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\obj\Release\WcfService1.dll
+C:\Users\Alaa\Desktop\New folder (4)\WcfService1\WcfService1\obj\Release\WcfService1.pdb
+C:\Users\Dell\Desktop\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Dell\Desktop\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Dell\Desktop\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Dell\Desktop\WcfService1\WcfService1\bin\MySql.Data.dll
+C:\Users\Dell\Desktop\WcfService1\WcfService1\obj\Release\WcfService1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\WcfService1\WcfService1\obj\Release\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\WcfService1\WcfService1\obj\Release\WcfService1.csproj.CopyComplete
+C:\Users\Dell\Desktop\WcfService1\WcfService1\obj\Release\WcfService1.dll
+C:\Users\Dell\Desktop\WcfService1\WcfService1\obj\Release\WcfService1.pdb
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\bin\MySql.Data.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Release\WcfService1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Release\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Release\WcfService1.csproj.CopyComplete
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Release\WcfService1.dll
+C:\Users\Dell\Desktop\takamol project\WcfService1\WcfService1\obj\Release\WcfService1.pdb

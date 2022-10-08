@@ -1,0 +1,396 @@
+{
+	"info": {
+		"_postman_id": "f91a82f7-1115-4765-8c9c-8c2758a875ba",
+		"name": "E-WeJob",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getAllJobs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/getAllJobs/?q=1",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"getAllJobs",
+						""
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getspecJobs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/getspecJobs/?q=1&userId=2",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"getspecJobs",
+						""
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "1"
+						},
+						{
+							"key": "userId",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getspecCandidate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/getspecCandidate/?jobId=4",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"getspecCandidate",
+						""
+					],
+					"query": [
+						{
+							"key": "jobId",
+							"value": "4"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "submitJob",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/submitJob/?jobId=4&userId=2",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"submitJob",
+						""
+					],
+					"query": [
+						{
+							"key": "jobId",
+							"value": "4"
+						},
+						{
+							"key": "userId",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addJob",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/addJob/?userId=2&salary=15&title=dd&reqLevel=a&reqEdu=a&expYears=2\n",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"addJob",
+						""
+					],
+					"query": [
+						{
+							"key": "userId",
+							"value": "2"
+						},
+						{
+							"key": "salary",
+							"value": "15"
+						},
+						{
+							"key": "title",
+							"value": "dd"
+						},
+						{
+							"key": "reqLevel",
+							"value": "a"
+						},
+						{
+							"key": "reqEdu",
+							"value": "a"
+						},
+						{
+							"key": "expYears",
+							"value": "2\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login company",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/login/?userType=5&username=takamol&password=123",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"login",
+						""
+					],
+					"query": [
+						{
+							"key": "userType",
+							"value": "5"
+						},
+						{
+							"key": "username",
+							"value": "takamol"
+						},
+						{
+							"key": "password",
+							"value": "123"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login candidate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/login/?userType=0&username=batoulsh&password=123",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"login",
+						""
+					],
+					"query": [
+						{
+							"key": "userType",
+							"value": "0"
+						},
+						{
+							"key": "username",
+							"value": "batoulsh"
+						},
+						{
+							"key": "password",
+							"value": "123"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SignUpCandidate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/SignUpCandidate/?username=alaaaa&password=123&fullName=alaa&phone=099655222&expYears=5&expLevel=a&expField=a",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"SignUpCandidate",
+						""
+					],
+					"query": [
+						{
+							"key": "username",
+							"value": "alaaaa"
+						},
+						{
+							"key": "password",
+							"value": "123"
+						},
+						{
+							"key": "fullName",
+							"value": "alaa"
+						},
+						{
+							"key": "phone",
+							"value": "099655222"
+						},
+						{
+							"key": "expYears",
+							"value": "5"
+						},
+						{
+							"key": "expLevel",
+							"value": "a"
+						},
+						{
+							"key": "expField",
+							"value": "a"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SignUpCompany",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/SignUpCompany/?name=Test&phone=099233374&username=takmols&password=123",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"SignUpCompany",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Test"
+						},
+						{
+							"key": "phone",
+							"value": "099233374"
+						},
+						{
+							"key": "username",
+							"value": "takmols"
+						},
+						{
+							"key": "password",
+							"value": "123"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getDiploma",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/getDiploma/",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"getDiploma",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addDiploma",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sinanqarhiely-001-site1.etempurl.com/EWeJob.svc/addDiploma/?title=sen&field=an",
+					"protocol": "http",
+					"host": [
+						"sinanqarhiely-001-site1",
+						"etempurl",
+						"com"
+					],
+					"path": [
+						"EWeJob.svc",
+						"addDiploma",
+						""
+					],
+					"query": [
+						{
+							"key": "title",
+							"value": "sen"
+						},
+						{
+							"key": "field",
+							"value": "an"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
